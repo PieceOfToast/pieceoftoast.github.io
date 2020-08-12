@@ -28,7 +28,7 @@ body {
 	background-attachment: fixed;
 	color: #7f7;
 	font-family: 'ShareTech';
-	background-image: url('/img/NewBackgroundWithBlack.png');
+	background-image: url('../NewBackgroundWithBlack.png');
 }
 
 a{
